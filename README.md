@@ -1,5 +1,6 @@
 # WordPressAdminPagination
 Easy to integrate WordPress admin style pagination for themes and plugins
+![ScreenShot](https://raw.github.com/cyrilchandelier/WordPressAdminPagination/master/screenshot.png)
 
 ## Installation
 Copy the ```WordPressAdminPagination.php``` file into your theme or plugin (for instance in a  ```Externals/WordPressAdminPagination/``` folder).
